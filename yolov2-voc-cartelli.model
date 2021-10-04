@@ -1,0 +1,65 @@
+Rete: yolov2-voc-cartelli
+
+[convolutional]
+	v
+[maxpool]
+	v
+[convolutional]
+	v
+[maxpool]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[maxpool]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[maxpool]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[maxpool]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[route]
+	v
+[convolutional]
+	v
+[reorg]
+	v
+[route]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[region]

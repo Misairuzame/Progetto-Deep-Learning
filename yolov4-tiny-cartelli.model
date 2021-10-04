@@ -1,0 +1,77 @@
+Rete: yolov4-tiny-cartelli
+
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[route]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[route]
+	v
+[convolutional]
+	v
+[route]
+	v
+[maxpool]
+	v
+[convolutional]
+	v
+[route]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[route]
+	v
+[convolutional]
+	v
+[route]
+	v
+[maxpool]
+	v
+[convolutional]
+	v
+[route]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[route]
+	v
+[convolutional]
+	v
+[route]
+	v
+[maxpool]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[yolo]
+	v
+[route]
+	v
+[convolutional]
+	v
+[upsample]
+	v
+[route]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[yolo]

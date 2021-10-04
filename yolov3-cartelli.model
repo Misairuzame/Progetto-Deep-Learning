@@ -1,0 +1,215 @@
+Rete: yolov3-cartelli
+
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[shortcut]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[shortcut]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[shortcut]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[shortcut]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[shortcut]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[shortcut]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[shortcut]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[shortcut]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[shortcut]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[shortcut]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[shortcut]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[shortcut]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[shortcut]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[shortcut]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[shortcut]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[shortcut]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[shortcut]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[shortcut]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[shortcut]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[shortcut]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[shortcut]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[shortcut]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[shortcut]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[yolo]
+	v
+[route]
+	v
+[convolutional]
+	v
+[upsample]
+	v
+[route]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[yolo]
+	v
+[route]
+	v
+[convolutional]
+	v
+[upsample]
+	v
+[route]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[convolutional]
+	v
+[yolo]
